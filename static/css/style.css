@@ -3,5 +3,6 @@
 }
 
 .btn-bg {
-    background-color: #b32100;
+    background-color: #b32100 !important;
+    color: #fff !important;
 }
